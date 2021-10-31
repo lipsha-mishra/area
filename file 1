@@ -1,3 +1,5 @@
+# This is a "area" program
+
 ch='y'
 while (ch=='y') or (ch=='Y'):
     l=int(input("Enter base of parallelogram:"))
@@ -17,3 +19,5 @@ while (ch!='y') or (ch!='Y'):
             print("Wrong input")
             ch=input("Do you want more y/n:")
 print("thanks")
+
+# End of the program

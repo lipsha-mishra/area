@@ -16,3 +16,4 @@ while (ch!='y') or (ch!='Y'):
         while (ch!='y') or (ch!='Y') or (ch!='n') or (ch!='N'):
             print("Wrong input")
             ch=input("Do you want more y/n:")
+print("thanks")
